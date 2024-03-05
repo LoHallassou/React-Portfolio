@@ -38,7 +38,16 @@
 }
 
 .introPara {
-    color: rgb(40, 108, 74);
+    color: rgb(255, 255, 255);
     font-size: medium;
     font-weight: 100;
+}
+
+@media screen and (max-width:840px) {
+    .bg {
+        right: -10;
+    }
+    .introContent {
+        font-size: 10vw;
+    }
 }
