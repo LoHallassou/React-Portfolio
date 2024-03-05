@@ -1,0 +1,44 @@
+#intro {
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.bg {
+    position: absolute;
+    top: 3rem;
+    right: 20px;
+    z-index: -1;
+    object-fit: cover;
+    height: 90vh;
+}
+
+.introContent {
+    width: 100vh;
+    height: 100vw;
+    padding: 20px;
+    padding-top: 150px;
+    font-size: 3rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.hi {
+    font-size: 1.75rem;
+    font-weight: 100;
+}
+
+.introName {
+    color: rgb(234, 142, 68);
+}
+
+.introPara {
+    color: rgb(40, 108, 74);
+    font-size: medium;
+    font-weight: 100;
+}
