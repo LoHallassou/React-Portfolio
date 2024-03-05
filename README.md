@@ -1,6 +1,8 @@
 # React-Portfolio
 
-# This is a React-based portfolio project developed by Lowell Hallassou. The portfolio showcases Lowell's skills, projects, and experience using various web technologies.
+# This is a <a href='https://lohallassou.github.io/React-Portfolio/'>React-based portfolio project</a> developed by Lowell Hallassou. The portfolio showcases Lowell's skills, projects, and experience using various web technologies.
+
+<p><img src='./src/assets/ReactPF Screenchot.png' alt="Portfolio Screenshot"></p>
 
 # Features
 
